@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peshani Rathnasooriya</h1>
-<h3 align= "center">Programmer | Gamer | Traveler</h3>
+<h3 align= "center">Programmer | Traveler</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20156206&label=Profile%20views&color=0e75b6&style=flat" alt="it20156206" /> </p>
 
@@ -28,6 +28,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20156206&show_icons=true&locale=en&layout=compact" alt="it20156206" />&nbsp;
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=it20156206&show_icons=true&locale=en" alt="it20156206" />
 
 
