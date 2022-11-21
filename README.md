@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Peshani Umodhya</h1>
-<h3>Undergraduate In SLIIT @SriLanka</h3>
+<h3>Data Science Undergraduate In SLIIT @SriLanka</h3>
 
 
 
